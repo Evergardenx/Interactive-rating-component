@@ -22,25 +22,7 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Links
 
-- Solution URL: [GitHub](https://github.com/sergii-moroz/Interactive-rating-component)
-
-## My process
-
-YouTube
-- [part 1](https://youtu.be/zkmw0xgFpfg)
-- [part 2](https://youtu.be/L9HElpQ82KA)
-
-### Built with
-
-- HTML5
-- SASS
-- JS
-
-## Author
-
-- Frontend Mentor - [link](https://www.frontendmentor.io/profile/sergii-moroz)
 
 ### Screenshot
 
